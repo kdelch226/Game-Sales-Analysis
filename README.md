@@ -23,9 +23,13 @@ The goal of this project is to understand the factors influencing video game sal
 Data Exploration and Visualizations
 The data exploration phase involved analyzing the dataset to identify trends and insights. This includes:
 
+
 -Top 5 platforms with the highest global sales: We identified the platforms that have generated the most global sales.
+
 -Sales trends over time: We examined the time periods that saw the highest global sales and explored how sales have evolved over the years.
+
 -Regional sales analysis: We analyzed sales trends across four major regions: North America (NA), Europe (EU), Japan (JP), and Other regions, to understand regional preferences and shifts.
+
 -Sales evolution by platform and genre: We explored how different platforms and game genres performed over time, highlighting the most popular and least successful combinations.
 
 Predictive Modeling
