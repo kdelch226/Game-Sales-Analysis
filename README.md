@@ -18,9 +18,11 @@ Correlation Analysis
 Predictive Modeling
 
 Project Overview
+
 The goal of this project is to understand the factors influencing video game sales. By examining the sales of different platforms and genres over time, we can uncover patterns and relationships that may help predict future sales. The analysis uses machine learning to model and predict future global sales based on historical data.
 
 Data Exploration and Visualizations
+
 The data exploration phase involved analyzing the dataset to identify trends and insights. This includes:
 
 
