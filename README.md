@@ -6,9 +6,13 @@ Table of Contents
 
 Project Overview
 Data Exploration and Visualizations
+    
     Top 5 platforms with highest global sales
+    
     Sales trends over time
+    
     Regional sales analysis
+    
     Sales evolution by platform and genre
 Correlation Analysis
 Predictive Modeling
